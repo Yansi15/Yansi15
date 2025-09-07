@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **coding projects & problem-solving**
 - 🌱 I’m learning **Git, GitHub, Python, and DSA**
 - 💬 Ask me about **C, Python, HTML, CSS, Git & GitHub**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **yansipatel1234@gmail.com**
 - ⚡ Fun fact: *I love learning something new every day!*
 
 ---
